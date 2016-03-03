@@ -7,12 +7,9 @@
 //
 
 import Foundation
-//import Foundation
 var a:Int,b:Int,c:Int
 a=100
 b=100
-c=100
-
-print("Hello, World!")
-print("Hello, World!XXXXXXX")
+c=a+b
+print("\(c)")
 

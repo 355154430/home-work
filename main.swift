@@ -26,3 +26,24 @@ for i=1;i<10;i++
 {
     print("\(i)")
 }
+
+
+
+/*import Cocoa
+func hello(num:Int)
+{
+    print("hello\(num)")
+}
+for var i in 1...20
+{
+    hello(i)
+}*/
+
+
+
+/*import Cocoa
+func add(a x:Int,b y:Int,c z:Int)
+{
+    print("\(x)+\(y)+\(z)=\(x+y+z)")
+}
+add(a:10,b:20,c:30)*/

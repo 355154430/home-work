@@ -7,7 +7,7 @@
 //
 
 import Foundation
-var a:Int,b:Int,c:Int
+var a:Int,b:Int,c:Int,i:Int
 a=100
 b=100
 c=a+b
@@ -19,6 +19,10 @@ for index in 1...5
 }
 
 for var i in 1..<10
+{
+    print("\(i)")
+}
+for i=1;i<10;i++
 {
     print("\(i)")
 }
